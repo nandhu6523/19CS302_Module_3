@@ -31,8 +31,8 @@ return 0;
 ```
 
 ## Output:
+![438847184-aff9d795-17d7-4f50-a802-5002f9b71a79-1](https://github.com/user-attachments/assets/ec8f614b-059c-43f2-9e2e-56da374dd8ce)
 
-![Uploading 438847184-aff9d795-17d7-4f50-a802-5002f9b71a79.png…]()
 
 
 ## Result:
